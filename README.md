@@ -1,1 +1,11 @@
-Python Libraries for Datascience
+#Python Libraries for Datascience
+
+##Libraries Covered
+
+Numpy
+
+Pandas
+
+Matplotlib
+
+Seaborn
